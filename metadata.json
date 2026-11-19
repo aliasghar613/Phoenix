@@ -1,0 +1,6 @@
+{
+  "name": "Phoenix",
+  "description": "Android companion app for phoenix.runasp.net with native navigation, pull-to-refresh, offline recovery, and adaptive viewing controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
